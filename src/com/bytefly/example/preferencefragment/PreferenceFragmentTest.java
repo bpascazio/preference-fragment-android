@@ -11,7 +11,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
-public class PrefXmlDemoActivity extends Activity {
+public class PreferenceFragmentTest extends Activity {
 	private Button prefBtn;
 	private Preferences frag;
     /** Called when the activity is first created. */

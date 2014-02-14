@@ -4,7 +4,7 @@
 	<uses-sdk android:minSdkVersion="15" />
 
 	<application android:icon="@drawable/bytefly_academy_icon" android:label="@string/app_name">
-		<activity android:name="com.bytefly.example.preferencefragment.PrefXmlDemoActivity" android:label="@string/app_name">
+		<activity android:name="com.bytefly.example.preferencefragment.PreferenceFragmentTest" android:label="@string/app_name">
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
 				<category android:name="android.intent.category.LAUNCHER" />
