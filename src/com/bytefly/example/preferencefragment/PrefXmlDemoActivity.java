@@ -1,6 +1,6 @@
-package com.bytefly.example;
+package com.bytefly.example.preferencefragment;
 
-import edu.pace.R;
+import com.bytefly.example.preferencefragment.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
